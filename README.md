@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there it's Seeker 👋
+
+- 🌱 I’m currently learning [ysyx](https://ysyx.oscc.cc/)
+
 
 <!--
 **Seeker0472/Seeker0472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
